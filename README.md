@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RanjanPoudel
-- 👀 I’m interested in developing automation tools for data management tasks.
+- 👀 I’m interested in developing data and process automation tools.
 - 💞️ I like to create microservices.
 - 🌱 I’m passionate about Python, NodeJs, VBA and databases (MS SQL and MS Access).
 - 📫 How to reach me : wondervba@gmail.com
